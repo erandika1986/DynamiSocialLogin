@@ -3,4 +3,6 @@ import { GoogleLoginProvider,FacebookLoginProvider,LinkedinLoginProvider } from 
 import { AuthService} from "./src/app/dynami-social-login/services/auth.service";
 import { AuthServiceConfigItem } from "./src/app/dynami-social-login/services/auth.service.config.item";
 import { AuthServiceConfig } from "./src/app/dynami-social-login/services/auth.service.config";
+import { DynamiSocialLoginModule } from "src/app/dynami-social-login/dynami-social-login.module";
+
 

@@ -1,6 +1,6 @@
 {
   "name": "ng-dynami-social-login",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -71,6 +71,6 @@
   ],
   "author": {
     "name": "Erandika Sandaruwan",
-    "email": "erandika1986@gmail.com"
+    "email": "erandika1986ng build@gmail.com"
   }
 }
