@@ -1,6 +1,9 @@
 import { Component } from '@angular/core';
 import { AuthService } from './dynami-social-login/services/auth.service';
-import { FacebookLoginProvider, GoogleLoginProvider, LinkedinLoginProvider } from './dynami-social-login/providers';
+import { FacebookLoginProvider } from './dynami-social-login/providers/facebook.login.provider';
+import { GoogleLoginProvider } from './dynami-social-login/providers/google.login.provider';
+import { LinkedinLoginProvider } from './dynami-social-login/providers/linkedin.login.provider';
+
 
 @Component({
   selector: 'app-root',

@@ -1,7 +1,9 @@
 import { Injectable } from "@angular/core";
-import { LoginProvider, SocialUserModel } from "../models";
 import { BehaviorSubject, Observable } from "rxjs";
+import { LoginProvider } from "../models/login.provider";
+import { SocialUserModel } from "../models/social.user.model";
 import { AuthServiceConfig } from "./auth.service.config";
+
 
 @Injectable()
 export class AuthService {

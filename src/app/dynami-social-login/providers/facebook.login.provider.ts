@@ -1,5 +1,6 @@
 import { BaseLoginProvider } from "../models/base.login.provider";
-import { LoginProviderClassModel, SocialUserModel } from "../models";
+import { LoginProviderClassModel } from "../models/login.provider.class.model";
+import { SocialUserModel } from "../models/social.user.model";
 
 
 declare let FB: any;

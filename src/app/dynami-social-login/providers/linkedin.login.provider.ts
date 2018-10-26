@@ -1,5 +1,7 @@
 import { BaseLoginProvider } from "../models/base.login.provider";
-import { LoginProviderClassModel, SocialUserModel, LinkedInResponseModel } from "../models";
+import { LoginProviderClassModel } from "../models/login.provider.class.model";
+import { SocialUserModel } from "../models/social.user.model";
+import { LinkedInResponseModel } from "../models/linkedin.response.model";
 
 
 declare let IN: any;
