@@ -1,6 +1,6 @@
 {
   "name": "ng-dynami-social-login",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -46,5 +46,31 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
     "typescript": "~3.1.1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "angular7",
+    "ng7",
+    "angular social login",
+    "angular facebook login",
+    "angular google login",
+    "angular 7 social login",
+    "angular7 social login",
+    "social authentication",
+    "angular social authentication",
+    "angular-social-login",
+    "angular7-social-login",
+    "social-authentication",
+    "social-login",
+    "google-authentication",
+    "angular-google-authentication",
+    "facebook-authentication",
+    "angular-facebook-authentication",
+    "angular module"
+  ],
+  "author": {
+    "name": "Erandika Sandaruwan",
+    "email": "erandika1986@gmail.com"
   }
 }
